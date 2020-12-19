@@ -1489,4 +1489,13 @@ footer .credits a {
     margin-left: 2rem;
 }
 }
+
+.contact-us-me{
+  text-align: center;
+  margin-top: 4.5rem;
+}
+.contact-us-me h1{
+  text-transform: uppercase;
+  font-weight: 900;
+}
 /* My css end here  */
