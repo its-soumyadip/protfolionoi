@@ -762,7 +762,7 @@ background: linear-gradient(90deg, rgba(25,34,205,1) 0%, rgba(157,15,255,1) 60%)
    text-transform: uppercase;
  }
 
-button:hover{
+.button01:hover, .button02:hover{
  background: rgb(205,25,133);
 background: linear-gradient(90deg, rgba(205,25,133,1) 0%, rgba(15,27,255,1) 100%);
 }
@@ -1497,5 +1497,8 @@ footer .credits a {
 .contact-us-me h1{
   text-transform: uppercase;
   font-weight: 900;
+}
+.rounded {
+  border-radius: .75rem!important;
 }
 /* My css end here  */
