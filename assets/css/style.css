@@ -749,22 +749,22 @@ background: linear-gradient(90deg, rgba(25,34,205,1) 0%, rgba(157,15,255,1) 60%)
 }
 .button02{
   background: rgb(25,34,205);
- background: linear-gradient(90deg, rgba(25,34,205,1) 0%, rgba(157,15,255,1) 60%);
-   padding:.5rem 2.1rem;
-   font-family: Helvetica, sans-serif;
-   font-weight: 200;
-   color: #fff;
+ background: linear-gradient(90deg, rgba(25,34,205,1) 0%, rgba(157,15,255,1) 60%) !important;
+   padding:.5rem 2.1rem !important;
+   font-family: Helvetica, sans-serif !important;
+   font-weight: 200 !important;
+   color: #fff !important;
    /* margin-left:4rem; */
-   border-radius: 15px;
-   font-weight:bold;
-   border: 0 solid transparent;
-   margin-left: 2rem;
-   text-transform: uppercase;
+   border-radius: 15px !important;
+   font-weight:bold !important;
+   border: 0 solid transparent !important;
+   margin-left: 2rem !important;
+   text-transform: uppercase !important;
  }
 
 .button01:hover, .button02:hover{
- background: rgb(205,25,133);
-background: linear-gradient(90deg, rgba(205,25,133,1) 0%, rgba(15,27,255,1) 100%);
+ background: rgb(205,25,133) !important;
+background: linear-gradient(90deg, rgba(205,25,133,1) 0%, rgba(15,27,255,1) 100%) !important;
 }
 /* Intro button  section end here */
 /*-------------------------------Intro section end here-------------------------------
