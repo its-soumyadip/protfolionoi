@@ -363,6 +363,7 @@ a:hover {
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
   border-top: 6px solid #0078ff;
+  border-top: 6px solid #ff890f;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -737,7 +738,7 @@ a:hover {
 .btn-upper-cls .button01{
  background: rgb(25,34,205);
 background: linear-gradient(90deg, rgba(25,34,205,1) 0%, rgba(157,15,255,1) 60%);
-  padding:.5rem .7rem;
+  padding:.7rem .7rem !important;
   font-family: Helvetica, sans-serif;
 	font-weight: 200;
   color: #fff;
